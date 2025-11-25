@@ -19,7 +19,7 @@
 ├── paper/
 │   └── 2511.03958v1.pdf
 ├── slides/
-│   └── short_story_slides.pptx
+│   └── Multi-Agent Collaborative Framework.pptx
 ├── video/
 │   └── short_story_talk.mp4   # add your recording
 ├── medium/
@@ -49,7 +49,7 @@
 
 ## Slide Deck
 
-- `slides/short_story_slides.pptx` is a starter. Expand bullets; add your figures and results callouts.  
+- `slides/Multi-Agent Collaborative Framework.pptx` is a starter. Expand bullets; add your figures and results callouts.  
 - Export to PDF and upload to Slideshare; link it above.
 
 ## Video (10–15 minutes)
