@@ -7,7 +7,7 @@
 
 ## Deliverables (Links)
 
-- **Medium article (original writing):** <ADD YOUR MEDIUM LINK HERE>
+- **Medium article (original writing):** <https://medium.com/@vineeth.kandukuri/beyond-zero-shot-how-multi-agent-debate-creates-better-math-problems-3f2f410b1326>
 - **Slides (Slideshare):** <https://docs.google.com/presentation/d/1VfBCI7KiSchlP0Q07TBOtFmQo1zhxGJtK54n-2_6LjU/edit?usp=sharing>
 - **Talk video (10–15 min):** <https://youtu.be/aFz20_tRauI>
 - **Paper/topic source:** Uploaded PDF in this repo; see `paper/`
