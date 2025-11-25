@@ -9,7 +9,7 @@
 
 - **Medium article (original writing):** <ADD YOUR MEDIUM LINK HERE>
 - **Slides (Slideshare):** <https://docs.google.com/presentation/d/1VfBCI7KiSchlP0Q07TBOtFmQo1zhxGJtK54n-2_6LjU/edit?usp=sharing>
-- **Talk video (10–15 min):** <[ADD MP4 LINK IN THIS REPO + YOUTUBE/VIMEO IF ANY](https://youtu.be/aFz20_tRauI)>
+- **Talk video (10–15 min):** <https://youtu.be/aFz20_tRauI>
 - **Paper/topic source:** Uploaded PDF in this repo; see `paper/`
 
 ## Contents
